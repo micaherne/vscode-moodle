@@ -19,11 +19,6 @@
             {
                 "command": "extension.sayHello",
                 "title": "Hello World"
-            },
-            {
-                "command": "vscode-moodle.sucka",
-                "title": "Sucka!",
-                "category": "Moodle"
             }
         ],
         "views": {
